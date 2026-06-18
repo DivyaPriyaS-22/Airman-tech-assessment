@@ -196,3 +196,32 @@ Outputs were verified manually through:
 * Confirming business-rule consistency
 
 Final decisions, interpretation, and submission structure were reviewed and adjusted manually.
+
+
+## AI Usage Disclosure
+
+### 1. Did you use AI tools? If yes, where?
+Yes. AI tools were used to support documentation, structure the workflow, review outputs, and improve clarity during the assessment process.
+
+### 2. What prompts or tasks did AI help with?
+- Organizing project folders and files
+- Refining explanations and written summaries
+- Reviewing output presentation
+- Improving documentation readability
+- Suggesting repository organization
+
+### 3. Which parts did you personally verify?
+- Dataset preparation and organization
+- Generated charts and observations
+- Report content and final outputs
+- Repository structure and uploaded materials
+
+### 4. Which AI suggestion did you reject or modify?
+Some generated explanations and descriptions were edited to better reflect the actual analysis and avoid unsupported conclusions.
+
+### 5. Which part of the analysis are you least confident about?
+The interpretation of observed patterns may benefit from additional validation and expanded assumptions.
+
+### 6. Pick one formula or chart and explain it in your own words.
+Example – Cadet Progress Chart:
+This chart shows how performance changes across different stages. A higher value represents stronger progress, while lower values indicate areas that may require additional attention or improvement.
