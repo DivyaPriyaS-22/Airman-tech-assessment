@@ -1,0 +1,16 @@
+cadet_id,name,course,home_base,total_required_hours,total_flown_hours,enrollment_date
+C001,Arjun Menon,PPL,B01,45,22.7,2026-02-27
+C002,Meera Iyer,PPL,B01,45,24.0,2026-03-10
+C003,Rahul Nair,PPL,B02,45,26.5,2026-03-14
+C004,Divya Krishnan,PPL,B01,45,20.9,2026-03-02
+C005,Karan Shah,PPL,B01,45,24.0,2026-02-10
+C006,Priya Pillai,CPL,B02,200,96.6,2026-02-07
+C007,Aditya Rao,CPL,B01,200,109.2,2026-03-16
+C008,Sneha Verma,PPL,B02,45,23.7,2026-02-23
+C009,Vikram Bose,CPL,B01,200,85.6,2026-02-23
+C010,Ananya Sharma,PPL,B02,45,14.4,2026-02-11
+C011,Rohan Das,CPL,B02,200,93.8,2026-01-26
+C012,Kavita Nambiar,CPL,B02,200,92.2,2026-01-22
+C013,Suresh Patel,CPL,B02,200,44.0,2025-12-17
+C014,Lakshmi Reddy,CPL,B02,200,32.0,2026-01-06
+C015,Farhan Qureshi,CPL,B01,200,45.0,2025-12-24

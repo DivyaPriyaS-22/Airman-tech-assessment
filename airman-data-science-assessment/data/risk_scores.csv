@@ -1,0 +1,16 @@
+cadet_id,risk_score,risk_level,main_reason
+C001,23.0,Low,Balanced
+C002,23.0,Low,Balanced
+C003,22.0,Low,Balanced
+C004,38.0,Low,"Balanced, payment risk"
+C005,35.0,Low,"Balanced, payment risk"
+C006,50.0,Medium,"Balanced, payment risk"
+C007,38.0,Low,Low quiz score
+C008,35.0,Low,Low quiz score
+C009,40.0,Medium,Low quiz score
+C010,39.0,Low,"Balanced, low flight progress"
+C011,43.0,Medium,"Balanced, payment risk"
+C012,43.0,Medium,"Balanced, payment risk"
+C013,61.0,Medium,"Low quiz score, payment risk, low flight progress"
+C014,68.0,Medium,"Balanced, payment risk, low flight progress"
+C015,61.0,Medium,"Low quiz score, payment risk, low flight progress"

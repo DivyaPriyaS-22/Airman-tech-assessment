@@ -1,0 +1,5 @@
+instructor_id,name,base_id,aircraft_qualified,total_duty_hours,total_flight_hours
+I001,Capt Rao,B01,"C172,DA40",160,118
+I002,Capt Menon,B01,PA28,145,88
+I003,Capt Sharma,B02,"C172,PA28",130,74
+I004,Capt Pillai,B02,PA28,120,31

@@ -1,0 +1,8 @@
+dataset,issue,affected_records,cleaning_action
+sorties,Invalid Dates,2,Flagged for review
+sorties,Completed Missing Times,1,Filled as NULL
+sorties,Delay Mismatch,31,Delay recalculation required
+payments,Payment Error,1,Outstanding adjusted
+toga_study,Study >100%,1,Capped at 100%
+aircraft,High Defects,2,Marked operational review
+cadets,No Study Activity,1,Flagged for intervention
